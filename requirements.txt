@@ -1,0 +1,3 @@
+# Branch2Commit has no external dependencies.
+# All functionality is implemented using Python standard library.
+# This ensures easy installation and compatibility across different environments.

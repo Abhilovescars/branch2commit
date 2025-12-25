@@ -1,0 +1,8 @@
+README.md
+cli.py
+setup.py
+branch2commit.egg-info/PKG-INFO
+branch2commit.egg-info/SOURCES.txt
+branch2commit.egg-info/dependency_links.txt
+branch2commit.egg-info/entry_points.txt
+branch2commit.egg-info/top_level.txt

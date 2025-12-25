@@ -1,0 +1,2 @@
+[console_scripts]
+branch2commit = cli:main
